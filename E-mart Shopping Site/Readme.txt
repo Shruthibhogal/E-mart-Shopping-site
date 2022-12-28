@@ -1,5 +1,3 @@
-TERM PROJECT PROGRAM SUBMISSION
---------------------------
 NAME : Shruthi Bhogal
 ROLLNO : 20223088
 -------------------------------
